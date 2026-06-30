@@ -73,7 +73,7 @@ The dashboard enables users to monitor key business metrics, identify sales tren
 
 # Executive Summary
 
-![Executive Summary](Executive_Summary.png)
+![Executive Summary](Overview%20%26%20Executive%20Summary.png)
 
 # Brand Performance
 
